@@ -1,0 +1,27 @@
+h1{
+    color: black;
+}
+#l2{
+    color: black!important;
+    width: 200px;
+    height: 200px;
+    color: red;
+     /* padding: 30px; */
+     /* margin: 15px; */
+     margin-left: 200px;
+     border: 1px solid black;
+}
+#l20{
+    width: 100px;
+    height: 100px;
+    /* padding-left: 50px;
+    padding-top: 25px; */
+}
+ img:hover{
+    border: 5px solid red;
+}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
